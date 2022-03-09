@@ -1,7 +1,7 @@
 # INGSOC
 Python Keylogger by RawnDawn.
 
-This Spyware recopile:
+This Spyware recopiles:
 - Local IP.
 - Pc name.
 - Currently Logged user.
